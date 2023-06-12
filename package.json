@@ -1,0 +1,18 @@
+{
+  "name": "persons-api-exercise",
+  "version": "0.0.1",
+  "description": "api exersice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "obet",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
